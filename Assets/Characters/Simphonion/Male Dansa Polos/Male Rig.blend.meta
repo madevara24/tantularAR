@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: cc21f8f40e0538947a1744cb7d57b1b6
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Circle_001
+    100002: Circle_003
+    100004: Circle_004
+    100006: Circle_005
+    100008: Circle_006
+    100010: Circle_007
+    100012: Circle_008
+    100014: Circle_009
+    100016: Circle_011
+    100018: Circle_012
+    100020: Circle_013
+    100022: Circle_015
+    100024: //RootNode
+    400000: Circle_001
+    400002: Circle_003
+    400004: Circle_004
+    400006: Circle_005
+    400008: Circle_006
+    400010: Circle_007
+    400012: Circle_008
+    400014: Circle_009
+    400016: Circle_011
+    400018: Circle_012
+    400020: Circle_013
+    400022: Circle_015
+    400024: //RootNode
+    2100000: Material_046__Untitled_005
+    2100002: None__Sclera_color_png_000
+    2100004: Gilap_Mata_001
+    2100006: Iris_Male_001__Mata_Male_Kanan
+    2100008: Gilap_Mata
+    2100010: Dasi_Male__Untitled_017
+    2100012: Korset_Male__Untitled_006
+    2100014: Material_033__Untitled_005
+    2100016: Jas_Male__jas
+    2100018: Celana_Male
+    2100020: Celana_Male__Untitled_010
+    2100022: Kulit_Male__Untitled_012
+    2100024: Rambut_Male__Untitled_014
+    2100026: Material_048__Untitled_019
+    2100028: Sepatu_Male
+    2300000: Circle_001
+    2300002: Circle_003
+    2300004: Circle_004
+    2300006: Circle_005
+    2300008: Circle_006
+    2300010: Circle_007
+    2300012: Circle_008
+    2300014: Circle_009
+    2300016: Circle_011
+    2300018: Circle_012
+    2300020: Circle_013
+    2300022: Circle_015
+    3300000: Circle_001
+    3300002: Circle_003
+    3300004: Circle_004
+    3300006: Circle_005
+    3300008: Circle_006
+    3300010: Circle_007
+    3300012: Circle_008
+    3300014: Circle_009
+    3300016: Circle_011
+    3300018: Circle_012
+    3300020: Circle_013
+    3300022: Circle_015
+    4300000: Circle_015
+    4300002: Circle_006
+    4300004: Circle_004
+    4300006: Circle_003
+    4300008: Circle_005
+    4300010: Circle_008
+    4300012: Circle_007
+    4300014: Circle_009
+    4300016: Circle_001
+    4300018: Circle_011
+    4300020: Circle_012
+    4300022: Circle_013
+    7400000: Default Take
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
